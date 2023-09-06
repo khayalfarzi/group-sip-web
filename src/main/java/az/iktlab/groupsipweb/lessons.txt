@@ -1,0 +1,14 @@
+2)	Java and Web +
+1.	What is HTTP +
+2.	HTTP methods +
+3.	Get, Post, Put, Patch, Delete +
+4.	Data formats +
+5.	What is JSON and XML +
+6.	What is REST +
+7.	Restful web services +
+8.	Rest API +
+9.	What is SOAP +
+10.	Difference between REST and SOAP +
+
+
+
