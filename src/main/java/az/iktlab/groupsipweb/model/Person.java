@@ -7,9 +7,15 @@ import lombok.NoArgsConstructor;
 
 @Data
 @Builder
-@NoArgsConstructor
+//@NoArgsConstructor
 @AllArgsConstructor
 public class Person {
+
+    public Person() {
+
+        System.out.println("Person");
+    }
+
     private Long id;
     private String name;
     private String surname;
